@@ -1,16 +1,6 @@
-# photo_filter_carousel
+Nama : Nurvi A'malina NIM:362358302001 Kelas:2A TRPL
 
-A new Flutter project.
+void sync, memberi tahu bahwa fungsi ini tidak mengembalikan nilai yang langsung dapat digunakan, tetapi akan melakukan oeprasi yang mungkin memakan waktu dan menyelesaikannya dimasa depan
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+fungsi dari anotasi @immutable adalah untuk menandakan bahwa sebuah kelas tidak boleh diubah setelah diinstsasiasi.
+fungsi anotasi @override digunakan untuk menandakan bahwa suatu metode dalam kelas turunan (subclass) menggantikan implementasi metode yang sama dalam kelas induk (superclass)
